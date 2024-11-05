@@ -8,7 +8,7 @@
 
 ## 📝 About Me
 
-I am a Centennial College student with a strong foundation in **software engineering** and a passion for **graphic design**. My journey began with an interest in game development, but it soon evolved to encompass broader fields, including **user-centric UI/UX design**, **database management**, and **web applications development**. With my technical and creative skills, I enjoy developing solutions that not only work well but also **tell stories that inspire others**.
+I am a Centennial College student with a strong foundation in **software engineering** and a passion for **graphic design**. My journey began with an interest in game development, but my interests began to branch out, making me passionate about **user-centric UI/UX design**, **database management**, and **web applications development**. With my technical and creative skills, I aspire to develop solution that not only work well but also **tell stories that inspire others**.
 
 ### Technical Skills
 - **Languages:** Java, SQL, C#, JavaScript, Python, HTML/CSS
