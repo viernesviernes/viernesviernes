@@ -18,12 +18,11 @@ I am a Centennial College student with a strong foundation in **software enginee
 - **Design & Graphics:** Figma, Adobe Creative Suite
 
 ### Soft Skills
-
-- **Communication and Collaboration**: Experienced in Agile teamwork and hackathon environments, valuing open communication and respect for diverse perspectives.
-- **Growth Mindset**: Passionate about continuous learning, with a focus on personal and professional growth.
-- **Adaptability**: Comfortable navigating change and quickly adapting to new technologies and work environments.
-- **Problem-Solving**: Strong analytical skills and creativity in tackling complex issues and developing efficient, innovative solutions.
-- **Attention to Detail**: Known for delivering precise and high-quality work, with an eye for both functionality and aesthetics.
+- **🗣️ Communication and Collaboration**
+- **📈 Growth Mindset**
+- **🔄 Adaptability**
+- **🧩 Problem-Solving**
+- **🔍 Attention to Detail**
 
 ---
 
