@@ -30,9 +30,8 @@ I am a Centennial College student with a strong foundation in **software enginee
 
 I’m always open to discussing new projects, ideas, or opportunities. Feel free to reach out!
 
-- **Portfolio**: [Your Portfolio Link]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jumhar-viernes/)
+- **Email**: vjumharchrysos@gmail.com
 
 Looking forward to connecting with you!
 
