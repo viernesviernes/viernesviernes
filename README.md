@@ -19,7 +19,7 @@ I am a Centennial College student with a strong foundation in **software enginee
 
 ### Soft Skills
 - **🗣️ Communication and Collaboration**
-- **📈 Growth Mindset**
+- **📈 Passionate to Learn**
 - **🔄 Adaptability**
 - **🧩 Problem-Solving**
 - **🔍 Attention to Detail**
