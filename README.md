@@ -6,20 +6,18 @@
 
 ---
 
-## About Me
+## 📝 About Me
 
-I am a Centennial College student with a strong foundation in **software engineering** and a passion for **graphic design**. My journey began with an interest in game development, but it soon evolved to encompass broader fields, including **user-centric application design**, **database management**, and **human-centered UI/UX**. With my technical and creative skills, I enjoy developing solutions that not only work well but also **tell stories that inspire others**.
+I am a Centennial College student with a strong foundation in **software engineering** and a passion for **graphic design**. My journey began with an interest in game development, but it soon evolved to encompass broader fields, including **user-centric UI/UX design**, **database management**, and **web applications development**. With my technical and creative skills, I enjoy developing solutions that not only work well but also **tell stories that inspire others**.
 
-## Core Skills
-
-### Technical Skills
+### 🧑‍💻 Technical Skills
 - **Languages:** Java, SQL, C#, JavaScript, Python, HTML/CSS
 - **Frameworks & Libraries:** React, Angular, Node.js, .NET
 - **Development Tools:** Git, Visual Studio Code, Eclipse, IntelliJ
 - **Cloud & OS:** Google Cloud, Microsoft Azure, Unix/Linux, Windows
 - **Design & Graphics:** Figma, Adobe Creative Suite
 
-### Professional Expertise
+### 🧑‍🏫 Professional Expertise
 - **Software Development**: Foundational knowledge in various object-oriented programming languages and programming paradigms.
 - **Database Management**: Proficient in SQL, PL/SQL, and Oracle, with experience in creating and managing real estate and other application databases.
 - **UI/UX Development**: Designed user-friendly interfaces for real estate and elderly care projects, focusing on accessibility and usability.
@@ -28,7 +26,7 @@ I am a Centennial College student with a strong foundation in **software enginee
 
 ---
 
-## My Values
+## 🪷 My Values
 
 - **Environmental Conservation** 🌍: Earth is our home, and we are its gardeners. It is up to us to preserve the beauty of the world around us.
 - **Inclusivity & Justice** ⚖️: I value freedom, diversity, and inclusivity, placing focus on how differences bring richness to our world.
