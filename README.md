@@ -30,10 +30,8 @@ I am a Centennial College student with a strong foundation in **software enginee
 
 ## My Values
 
-- **Environmental Conservation** 🌍: Nature is beautiful yet exploited, and I believe in preserving it.
-- **Inclusivity & Justice** ⚖️: I value freedom and cultural diversity, appreciating how these differences bring richness to our world.
-- **Performance-Based Growth** 📈: I’m a strong advocate for merit-based recognition and believe that effort should be rewarded accordingly.
-- **Education for All** 📚: Learning should be personalized, allowing everyone to progress at their own pace.
+- **Environmental Conservation** 🌍: Earth is our home, and we are its gardeners. It is up to us to preserve the beauty of the world around us.
+- **Inclusivity & Justice** ⚖️: I value freedom, diversity, and inclusivity, placing focus on how differences bring richness to our world.
 
 ---
 
