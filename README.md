@@ -10,19 +10,24 @@
 
 I am a Centennial College student with a strong foundation in **software engineering** and a passion for **graphic design**. My journey began with an interest in game development, but my interests began to branch out, making me passionate about **user-centric UI/UX design**, **database management**, and **web applications development**. With my technical and creative skills, I aspire to develop solution that not only work well but also **tell stories that inspire others**.
 
-### Technical Skills
-- **Languages:** Java, SQL, C#, JavaScript, Python, HTML/CSS
-- **Frameworks & Libraries:** React, Angular, Node.js, .NET
-- **Development Tools:** Git, Visual Studio Code, Eclipse, IntelliJ
-- **Cloud & OS:** Google Cloud, Microsoft Azure, Unix/Linux, Windows
-- **Design & Graphics:** Figma, Adobe Creative Suite
 
-### Soft Skills
-- **🗣️ Communication and Collaboration**
-- **📈 Passionate to Learn**
-- **🔄 Adaptability**
-- **🧩 Problem-Solving**
-- **🔍 Attention to Detail**
+### Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
+### Frameworks:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 
